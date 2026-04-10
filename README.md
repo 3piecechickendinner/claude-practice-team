@@ -1,21 +1,24 @@
-# Claude Partner Network — Skills Roster
+# Claude Partner Network — SD's Team Roster
 
-The Claude Partner Network is a curated group of builders and operators working together to ship real AI products and programs.
+We got accepted into the Claude Partner Network. This is the team we're building.
 
 ---
 
-## What We're Building
+## Who We Are
 
-This is SD's practice team. Small group, high signal, real output.
+Mixed group. All backgrounds. One requirement: you have to be AI first.
 
-We're building:
+That means you're not waiting to see where AI goes. You're already using it, building with it, thinking through it. Whether you're a builder, a marketer, a designer, an operator, a salesperson, or something else entirely — if AI is already part of how you work, you belong here.
 
-- AI-native apps and agents
-- GTM programs powered by AI
-- Multi-agent infrastructure
-- AI literacy programs that actually land
+---
 
-No hype. No theory. Just people who build things and want to go further together.
+## What We're Working On
+
+- AI-native products and apps
+- Go-to-market programs powered by AI
+- Agent infrastructure and MCP tooling
+- AI literacy programs that actually reach people
+- Whatever else makes sense as the team takes shape
 
 ---
 
@@ -23,15 +26,15 @@ No hype. No theory. Just people who build things and want to go further together
 
 1. Fork this repo to your own GitHub account
 2. Copy `skills-template.md`
-3. Fill it out — real skills only, no fluff
+3. Fill it out — be real, no fluff
 4. Save it as `applicants/YOUR-NAME.md` inside your fork
 5. Open a pull request back to this repo
 
-Rolling basis. Spots are limited. If you ship things, say so.
+Rolling basis. We're looking for people who are already doing the work, not just interested in it.
 
 ---
 
-## Roster
+## Current Roster
 
 | Name | Role | Superpower |
 |------|------|------------|
@@ -39,4 +42,4 @@ Rolling basis. Spots are limited. If you ship things, say so.
 
 ---
 
-Built with Claude.
+Built with Claude. Part of the Anthropic Claude Partner Network.
