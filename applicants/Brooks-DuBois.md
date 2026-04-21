@@ -4,25 +4,28 @@
 
 ---
 
-## Name / Handle
+## Name - Handle - Website
+
 Brooks DuBois - https://github.com/brooksdubois - www.brooksdubois.com
 
 ---
 
 ## Contact Information
-                                                                                
-  - **Email:** bdubois2@gmail.com
-  - **LinkedIn / Twitter / other:** https://www.linkedin.com/in/brooksdubois/    
+
+ - **Email:** bdubois2@gmail.com
+ - **LinkedIn / Twitter / other:** https://www.linkedin.com/in/brooksdubois/    
                                                             
-  ---
+---
 
 ## Core Identity
-- "Full-stack engineer well-versed in all things Ai tooling"
-- "Design savvy entrepreuneur, using Codex to power his solutions"
+
+ - "Full-stack engineer well-versed in all things Ai tooling"
+ - "Design savvy entrepreuneur, using Codex to power his solutions"
 
 ---
 
-## What You're Good At
+## What I'm Good At
+
  - React.js 
  - JS
  - Typescript
@@ -34,8 +37,7 @@ Brooks DuBois - https://github.com/brooksdubois - www.brooksdubois.com
 
 ---
 
-## How You Use AI Right Now
-Not what you've heard about, what you actually use. Tools, models, workflows, things you've built or shipped.
+## How I Use AI Right Now
 
 - Codex with `oh-my-codex` and gpt-5.4
 - SolidStart/TanStack Start with Micronaut (Kotlin) backend
@@ -50,8 +52,8 @@ Not what you've heard about, what you actually use. Tools, models, workflows, th
 ## Current or Recent Projects
 What are you working on or what have you shipped? Links welcome.
 
-- https://wa-aas.com
 - https://brooksdubois.com
+- https://wa-aas.com
 - Built an app called "Enable" @Aramark
 - Built a "Reference Data Manager" @Nasdaq
 - Rewrote "Public Chargers Near Me" @Ford
@@ -59,7 +61,7 @@ What are you working on or what have you shipped? Links welcome.
 
 ---
 
-## What You Want to Build Here
+## What I Want to Build Here
 
 I'm looking to contribute to an Ai-first organization that can handle the volume of code I'm capable of outputting.
 
@@ -71,4 +73,4 @@ Noticed your post on "vibe coding is life" and figured I'd apply!
 
 ## Superpower
 
-Ability to create comprehensive UI's that work for users needs from vague requirements
+Ability, starting with vague requirements, to create comprehensive UI's that work for users needs
