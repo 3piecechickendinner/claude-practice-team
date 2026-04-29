@@ -1,65 +1,69 @@
-# [Your Name] — Skills Profile
-
-Copy this, fill it out, save it as `applicants/YOUR-NAME.md`, and submit a PR.
-
-No technical background required. But you do need to be AI first.
-
----
+ # Jesse Raso — Skills Profile
 
 ## Name / Handle
-Your name, GitHub handle, or both.
+
+Jesse Raso · Niagara Falls, ON · github.com/biocity93
 
 ---
-
-## Contact Information
-  How to reach you. 
-                                                                                
-  - **Email:**
-  - **LinkedIn / Twitter / other:**                                             
-                                                            
-  ---
 
 ## Core Identity
-Who you are and what you do. One or two lines, written like you'd say it to a peer.
 
-Examples:
-- "Marketer who builds AI-powered content systems. Former agency, now independent."
-- "Ops lead who automates everything. Currently building internal tools with Claude."
-- "Designer who uses AI to move from concept to prototype in hours, not weeks."
+Cog Sci grad, full-stack builder, AI-native from day one.
+BSc (Hons), Cognitive Science — University of Toronto.
+Currently building AI-native vertical SaaS for the residential property management space through Raso Technologies Inc.
 
 ---
 
-## What You're Good At
-Your strongest skills — technical or not. Be specific.
+## Technical Skills
 
--
--
--
-
----
-
-## How You Use AI Right Now
-Not what you've heard about, what you actually use. Tools, models, workflows, things you've built or shipped.
-
--
--
--
+* Full-stack web — React, Next.js, Node.js, Tailwind, Vercel
+* Mobile — Android (Java), SQLite
+* Languages — TypeScript/JavaScript, Java, Python, SQL
+* Enterprise analytics — Tableau, Power BI, Alteryx, SAS (CIBC Enterprise Technology, 8-month co-op)
+* DevOps and infra — Docker, AWS, Azure, Git
+* CMS / content systems — Sanity CMS, Confluence
 
 ---
 
-## Current or Recent Projects
-What are you working on or what have you shipped? Links welcome.
+## AI Experience
 
--
--
--
+* Claude Code and the Claude API as my daily build environment
+* Architecting a three-mode AI assistant (manager/tenant/leasing) with role-aware system prompts and live calendar/inventory context — currently in build
+* Designing AI-driven work order triage that auto-classifies severity and surfaces preventive-maintenance patterns from historical data
+* Use Claude as a co-architect across the stack — code, technical specs, pricing models, decks, operator math
+* Currently working through the Anthropic Partner Program training modules
+* Foundation: UofT coursework in Intro to AI, Software Design, Interactive Computational Media
 
 ---
 
-## What You Want to Build Here
-Why are you applying and what do you want to contribute or create?
+##GTM and Business Skills##
+
+Competitive positioning analysis against incumbent enterprise SaaS platforms
+Cross-currency pricing strategy — anchor and undercut models
+Long-form technical proposals contractors can build directly from
+Investor-grade pitch decks (currently in active deal cycle)
+
+
+##Current or Recent Projects
+In active build (pre-launch):##
+
+Vertical SaaS platform — multi-role enterprise application with five distinct user personas, role-based access, and real-time coordination across field, office, and end-user stakeholders. Multi-phase build, anchor client in active deal cycle.
+Embedded AI assistant — multi-persona system with role-aware prompts and live business context.
+Two-sided marketplace platform — pre-launch.
+
+**Shipped:**
+
+* UofT Mental Health Student Association website — full-stack React / Next.js / Sanity CMS, including a blog system. Migrated legacy React to Next.js for load speed and scalability. (Sept 2022 – present.)
+* CIBC Enterprise Technology, Application Developer co-op — supported four analytics platforms across PROD/UAT/DEV, resolved five major issues in Tableau Server and Alteryx, authored Confluence documentation that cut release cycle time by 3 hours and onboarding time by 15%. (Sept 2022 – Apr 2023.)
+
+---
+
+## What I Want to Build Here
+
+A team of operators and builders who actually ship. I'm at the part of the journey where the next year compresses more learning than the last five — having peers building alongside me, trading techniques, and pulling each other forward is the multiplier. Not a Discord. A working group.
 
 ---
 
 ## Superpower
-One line. What do you do better than almost anyone?
+
+Building relationships and maintaining them!
