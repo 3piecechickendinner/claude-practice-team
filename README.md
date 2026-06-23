@@ -1,4 +1,4 @@
-# Claude Partner Network — SD's Team Roster
+# Claude Partner Network | SD's Team Roster
 
 We are starting the process to be included in the Claude Partner Network. This is the team we're building.
 
