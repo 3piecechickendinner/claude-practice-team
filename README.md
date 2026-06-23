@@ -41,5 +41,3 @@ Rolling basis. We're looking for people who are already doing the work, not just
 | [SD](applicants/SDskills.md) | Founder | Building teams and translating complex AI infrastructure into real business outcomes and making it move fast. |
 
 ---
-
-Built with Claude. Part of the Anthropic Claude Partner Network.
